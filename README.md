@@ -1,4 +1,4 @@
-# Shopping-Cart-API
+# PHP-Cart-API-coding-challenge
 
 Run locally:  
 ``composer install --no-dev``  
